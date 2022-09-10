@@ -4,3 +4,4 @@
 4. Rule #4
 5. Rule #5
 6. Rule #6
+7. Rule #7
